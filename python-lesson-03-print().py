@@ -22,3 +22,4 @@ print(f"Katetlari 6 vga 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasi 
 
 # !! Javoblarni savol va yechim ko'rinishida chiqaring: 5 ning 4-darajasi 625 !!
 print(f"test")
+print(f"hello world")
