@@ -64,8 +64,9 @@ print(friends)
 mehmonlar = []
 mehmon = friends.pop()
 mehmonlar.append(mehmon)
-mehmonlar.append("nigora")
+mehmonlar.append("Anora")
 print(mehmonlar)
+
 
 
 
